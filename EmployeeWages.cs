@@ -21,13 +21,13 @@ namespace EmployeeWageProgram
             if (empCheck == Is_Full_Time)
             {
                 Console.WriteLine("Employee is Present");
-                emphrs = 16;
+                emphrs = 8;
 
             }
             else if (empCheck == Is_Part_Time)
             {
                 Console.WriteLine("Employee is Present Part Time");
-                emphrs = 8;
+                emphrs = 4;
             }
             else
             {
